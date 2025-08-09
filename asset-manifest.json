@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yaezerrr/yaezerrr/Home/static/css/main.a973ff93.css",
+    "main.js": "/Yaezerrr/yaezerrr/Home/static/js/main.f111d1f2.js",
+    "index.html": "/Yaezerrr/yaezerrr/Home/index.html",
+    "main.a973ff93.css.map": "/Yaezerrr/yaezerrr/Home/static/css/main.a973ff93.css.map",
+    "main.f111d1f2.js.map": "/Yaezerrr/yaezerrr/Home/static/js/main.f111d1f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a973ff93.css",
+    "static/js/main.f111d1f2.js"
+  ]
+}
