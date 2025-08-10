@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/redhut/static/css/main.a973ff93.css",
-    "main.js": "/redhut/static/js/main.2af8f7f7.js",
+    "main.js": "/redhut/static/js/main.cc999f9f.js",
     "index.html": "/redhut/index.html",
     "main.a973ff93.css.map": "/redhut/static/css/main.a973ff93.css.map",
-    "main.2af8f7f7.js.map": "/redhut/static/js/main.2af8f7f7.js.map"
+    "main.cc999f9f.js.map": "/redhut/static/js/main.cc999f9f.js.map"
   },
   "entrypoints": [
     "static/css/main.a973ff93.css",
-    "static/js/main.2af8f7f7.js"
+    "static/js/main.cc999f9f.js"
   ]
 }
