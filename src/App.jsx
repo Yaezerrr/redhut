@@ -1,9 +1,9 @@
- import React, { useState } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import React, { useState } from "react";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./components/Home";
 import OrderPage from "./components/OrderPage";
 import FluffyPancake from "./components/FluffyPancake";
-import Checkout from "./components/CheckoutPage"; // Add this component
+import Checkout from "./components/CheckoutPage";
 import "./App.css";
 
 function App() {
